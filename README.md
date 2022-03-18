@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matafiya
-- 👀 I’m interested in full stack web service, Vue.js / Typescript / Django / Python / AutoTest / CI & CD / docker / ASK 
+- 👀 I’m interested in full stack web service, Vue.js / Typescript / Django / Python / AutoTest / CI & CD / docker / AKS 
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
